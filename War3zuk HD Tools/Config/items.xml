@@ -40,7 +40,7 @@
 		<passive_effect name="EntityDamage" operation="base_set" value="4.2"/>
 		<passive_effect name="BlockDamage" operation="base_set" value="50.7"/>
 		<passive_effect name="RoundsPerMinute" operation="base_set" value="300"/>
-		<passive_effect name="DegradationMax" operation="base_set" value="1000,6000" tier="1,6" tags="perkMiner69r"/>
+		<passive_effect name="DegradationMax" operation="base_set" value="10000,60000" tier="1,6" tags="perkMiner69r"/>
 		<passive_effect name="DegradationPerUse" operation="base_set" value="1" tags="perkMiner69r"/>
 		<passive_effect name="MaxRange" operation="base_set" value="2.35"/>
 		<passive_effect name="BlockRange" operation="base_set" value="5"/>
@@ -65,7 +65,7 @@
 
 		<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="wood"/>
 		<passive_effect name="BurstRoundCount" operation="base_set" value="1000"/>
-		<passive_effect name="MagazineSize" operation="base_set" value="500"/>
+		<passive_effect name="MagazineSize" operation="base_set" value="10000"/>
 		<passive_effect name="ReloadSpeedMultiplier" operation="base_set" value="1"/>
 
 		<passive_effect name="SpreadDegreesVertical" operation="base_set" value="0"/>
@@ -117,7 +117,7 @@
 		<passive_effect name="EntityDamage" operation="base_set" value="6"/>
 		<passive_effect name="BlockDamage" operation="base_set" value="50.1"/>
 		<passive_effect name="RoundsPerMinute" operation="base_set" value="300"/>
-		<passive_effect name="DegradationMax" operation="base_set" value="1000,6000" tier="1,6" tags="perkMiner69r"/>
+		<passive_effect name="DegradationMax" operation="base_set" value="10000,60000" tier="1,6" tags="perkMiner69r"/>
 		<passive_effect name="DegradationPerUse" operation="base_set" value="1" tags="perkMiner69r"/>
 		<passive_effect name="MaxRange" operation="base_set" value="2.35"/>
 		<passive_effect name="BlockRange" operation="base_set" value="5"/>
@@ -145,7 +145,7 @@
 		<passive_effect name="DamageModifier" operation="perc_add" value="-.85" tags="metal"/>
 
 		<passive_effect name="BurstRoundCount" operation="base_set" value="1000"/>
-		<passive_effect name="MagazineSize" operation="base_set" value="300"/>
+		<passive_effect name="MagazineSize" operation="base_set" value="10000"/>
 		<passive_effect name="ReloadSpeedMultiplier" operation="base_set" value="1"/>
 
 		<passive_effect name="SpreadDegreesVertical" operation="base_set" value="0"/>

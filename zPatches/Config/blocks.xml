@@ -1,0 +1,5 @@
+<configs>
+    <!-- Change HD Forge to accept MeanCloud Mining Copper and Zinc. Removes glass as smelting option. -->
+    <set xpath="/blocks/block/[@name='HD Forge']/property/[@class='Workstation']/property/[@name='InputMaterials']">iron,brass,lead,stone,clay,copper,zinc</set>
+
+</configs>
