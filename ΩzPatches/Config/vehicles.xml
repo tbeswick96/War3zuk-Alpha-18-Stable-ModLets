@@ -1,0 +1,4 @@
+<configs>
+    <!-- Brighter vehicle headlights -->
+    <set xpath="/vehicles/vehicle[contains(@name, 'vehicle') and not(contains(@name, 'Bicycle')) and not(contains(@name, 'ocopter'))]/property[@class='headlight']/property[@name='bright']/@value">4</set>
+</configs>

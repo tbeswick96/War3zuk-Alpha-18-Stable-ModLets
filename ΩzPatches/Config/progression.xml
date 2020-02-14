@@ -1,0 +1,4 @@
+<configs>
+    <!-- Faster crafting -->
+    <set xpath="progression/perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[contains(@name, 'CraftingTime')]/@value">-0.5</set>
+</configs>
